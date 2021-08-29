@@ -1,18 +1,18 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+nav_order: 15
+has_children: false
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Questo sito raccoglie ed organizza la legislazione relativa all'insegnamento nell Repubblica di San Marino.
+Obiettivo di questo progetto è avere sempre a disposizione una documentazione aggiornata, accessibile e facilmente consultabile per chiunque.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Poiché si tratta di un progetto in divenire, all'avvio del progetto viene data priorità alla pubblicazione delle normative attualmente in vigore, con lo scopo di pubblicare in futuro anche le normative passate, (adeguatamente segnalate come abrogate) in modo da cstruire anche una documentazione storica esaustiva sull'istruzione a San Marino.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Il sito è naturalmente solo un mezzo di consultazione, in caso di contestazioni, ricorsi o altre procedure burocratiche, siete pregati di fare riferimento agli originali pubblicati su Bollettino Ufficiale e/o consultare la Segreteria Istituzionale.
 
+Il progetto è open source, tutti possono contribuire con segnalazioni o collaborando nell'organizzazione delle pagine.
 
-[jekyll-organization]: https://github.com/jekyll
+Questo progetto vuole essere anche uno spunto per chiunque, interessato ad altri ambiti della legge, voglia adottare un sistema di documentazione simile.
