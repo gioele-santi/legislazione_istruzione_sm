@@ -3,7 +3,7 @@ layout: default
 title: Graduatorie per incarichi e supplenze
 nav_order: 1
 has_children: true
-permalink: /docs/ui-components
+permalink: /docs/graduatorie
 ---
 
 # Graduatorie per incarichi e supplenze
