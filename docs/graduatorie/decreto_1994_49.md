@@ -4,7 +4,6 @@ title: Decreto 25 maggio 1994 n.49
 parent: Graduatorie per incarichi e supplenze
 nav_order: 4
 permalink: /docs/graduatorie/decreto_1994_49
-has_children: true
 ---
 
 # Decreto 25 maggio 1994 n.49 
